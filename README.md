@@ -1,6 +1,6 @@
-# resume
+# CS Resume Template (targeted toward students)
 
-CS Resume Template hosted on Google Docs tailored toward students.
+CS Resume Template hosted on Google Docs.
 
 Based off of Jake's Resume Template + successful resume formats @ Resumes.fyi.
 
