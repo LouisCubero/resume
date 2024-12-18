@@ -4,7 +4,7 @@ CS Resume Template hosted on Google Docs.
 
 Based off of Jake's Resume Template + successful resume formats @ Resumes.fyi.
 
-Will create a LaTeX version if there's enough interest!
+Working on LaTeX version, will be hosted on Overleaf.
 
 Create a copy on Google Docs: [Louis's Resume Template](https://docs.google.com/document/d/1qnFvZN7zLLBLUZFF1Zu5HwYwDaSKAuhzyaO7SX12rHI/copy)
 
